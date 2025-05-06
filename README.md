@@ -1,5 +1,5 @@
-**Cubey**
+**KnightRun**
 
-An example of how to display sprites using Phaser 3.
+A small game made for CMPM 120
 
-Uses Kenny Assets "[Shape Characters](https://kenney.nl/assets/shape-characters)" set, with gratitude.
+Uses Kenny Assets "[Tiny Dungeon](https://kenney.nl/assets/tiny-dungeon)" set, with gratitude.
